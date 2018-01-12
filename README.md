@@ -14,3 +14,5 @@ for web api client http test
 | /get/Json         | GET           | N/A                   | Json(new{ Name = "testName", Age = 13 });|
 
 The API also contains the POST/PUT/DELETE method. Change the Path prefix and invoke the targeted method api.
+
+API Url: http://webapihttptest.azurewebsites.net
